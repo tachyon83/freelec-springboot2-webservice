@@ -14,7 +14,7 @@ cache:
 
 script: "./gradlew clean build"
 
-# CI alarm upon execution completion
+# CI alarm upon execution-completion
 notifications:
   email:
     recipients:
